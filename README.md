@@ -1,6 +1,6 @@
 # [Teste FrontEnd BemPaggo](https://www.bempaggo.com.br/)
 
-![Screenshot of app](https://imgur.com/6qfCvCl)
+![Screenshot of app](/public/screenshot.png)
 
 Formulário desenvolvido em ReactJS com MaterialUI para desáfio técnico da BemPaggo.
 
