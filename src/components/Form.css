@@ -1,0 +1,63 @@
+.form {
+  background-color: #575777;
+  padding: 32px;
+  border-radius: 4px;
+  box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.3);
+  height: 70vh;
+  width: 20vw;
+}
+
+.form-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+label {
+  font-size: 20px;
+}
+
+h1 {
+  width: 100%;
+}
+
+.btn_div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+span.agradecimento {
+  font-size: 30px;
+}
+
+button {
+  min-height: 32px;
+  background-color: #fff1c3;;
+  color: #575777;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 16px 8px;
+  padding: 10px 15px;
+  cursor: pointer;
+  box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  filter: brightness(95%);
+}
+
+.MuiOutlinedInput-notchedOutline:focus {
+  color: red;
+}

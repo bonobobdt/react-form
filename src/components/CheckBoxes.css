@@ -1,0 +1,25 @@
+legend.MuiFormLabel-root {
+    font-size: 20px;
+    font-family: "Josefin Sans", Arial, sans-serif;
+    color: #fff1c3;
+    margin: 16px 0;
+    padding: 0px;
+}
+
+fieldset.MuiFormControl-root {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 32px 0;
+}
+label.check-box-label {
+    padding: 12px 0;
+}
+
+div.MuiFormGroup-root {
+    margin: 0 8px;
+}
+
+span.MuiTypography-root {
+    padding-left: 8px;
+}
